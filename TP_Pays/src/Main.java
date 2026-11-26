@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {//B2
+    public static void main(String[] args) {//B25452K
         
       //initialisation
         // Le Scanner permet de lire la saisie de l'utilisateur dans la console
